@@ -1,1 +1,2 @@
 # tutorial
+	cloneを作成。sample.txtを編集
