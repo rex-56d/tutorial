@@ -1,3 +1,4 @@
 # tutorial
 	cloneを作成。sample.txtを編集
 	競合について。
+	競合状態の解決方法の勉強。
