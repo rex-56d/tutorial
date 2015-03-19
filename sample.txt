@@ -10,4 +10,4 @@
 
 	new branch "issue"
 
-	new branch "issue2"
+	git merge "issue2&3"
