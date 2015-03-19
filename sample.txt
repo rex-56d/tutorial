@@ -7,3 +7,5 @@
 	git credential-cacheがよくわからん
 
 	git branch 
+
+	new branch "issue"
