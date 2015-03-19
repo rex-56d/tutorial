@@ -11,3 +11,5 @@
 	new branch "issue"
 
 	git merge "issue2&3"
+
+	ほげほげほげ
