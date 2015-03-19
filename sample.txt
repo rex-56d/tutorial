@@ -9,3 +9,5 @@
 	git branch 
 
 	new branch "issue"
+
+	new branch "issue2"
