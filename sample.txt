@@ -6,9 +6,3 @@
 test
 
 rebase test
-rebase test 2
-
-------- 
-
-りべーす１
-リベース２
