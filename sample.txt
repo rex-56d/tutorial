@@ -4,3 +4,6 @@
 だ！だ！せいやー！
 
 test
+
+rebase test
+rebase test 2
