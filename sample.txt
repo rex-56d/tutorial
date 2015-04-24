@@ -12,3 +12,4 @@ rebase test02
 なななななななな
 
 hoge
+gooo
