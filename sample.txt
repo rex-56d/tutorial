@@ -12,4 +12,3 @@ rebase test02
 
 なななななななな
 aaa
-bbb
