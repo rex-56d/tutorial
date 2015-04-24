@@ -9,7 +9,5 @@ rebase test
 rebase test02
 
 
-なななななななな
 
-aaaa
-bbbb
+なななななななな
